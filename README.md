@@ -55,4 +55,4 @@ The project was developed following the Mobile First principle, and adjustments 
  <sub><b> Made with ❤️ by Max Faria 👋🏽 Get in touch!</b></sub></a> <a></a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Max-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)]([https://www.linkedin.com/in/tgmarinho/]
+![Linkedin Badge](https://img.shields.io/badge/-Max-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxfariaa)[www.linkedin.com/in/maxfariaa]
